@@ -1,0 +1,2 @@
+D:\ITACAD\1.net\lab13\Laborator13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+D:\ITACAD\1.net\lab13\Laborator13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache

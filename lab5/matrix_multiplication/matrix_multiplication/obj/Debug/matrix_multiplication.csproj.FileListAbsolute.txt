@@ -1,0 +1,13 @@
+c:\users\geri\documents\visual studio 2015\Projects\matrix_multiplication\matrix_multiplication\bin\Debug\matrix_multiplication.exe.config
+c:\users\geri\documents\visual studio 2015\Projects\matrix_multiplication\matrix_multiplication\bin\Debug\matrix_multiplication.exe
+c:\users\geri\documents\visual studio 2015\Projects\matrix_multiplication\matrix_multiplication\bin\Debug\matrix_multiplication.pdb
+c:\users\geri\documents\visual studio 2015\Projects\matrix_multiplication\matrix_multiplication\obj\Debug\matrix_multiplication.csprojResolveAssemblyReference.cache
+c:\users\geri\documents\visual studio 2015\Projects\matrix_multiplication\matrix_multiplication\obj\Debug\matrix_multiplication.exe
+c:\users\geri\documents\visual studio 2015\Projects\matrix_multiplication\matrix_multiplication\obj\Debug\matrix_multiplication.pdb
+D:\ITACAD\1.net\laborator5Csharp\matrix_multiplication\matrix_multiplication\bin\Debug\matrix_multiplication.exe.config
+D:\ITACAD\1.net\laborator5Csharp\matrix_multiplication\matrix_multiplication\bin\Debug\matrix_multiplication.exe
+D:\ITACAD\1.net\laborator5Csharp\matrix_multiplication\matrix_multiplication\bin\Debug\matrix_multiplication.pdb
+D:\ITACAD\1.net\laborator5Csharp\matrix_multiplication\matrix_multiplication\obj\Debug\matrix_multiplication.csprojResolveAssemblyReference.cache
+D:\ITACAD\1.net\laborator5Csharp\matrix_multiplication\matrix_multiplication\obj\Debug\matrix_multiplication.csproj.CoreCompileInputs.cache
+D:\ITACAD\1.net\laborator5Csharp\matrix_multiplication\matrix_multiplication\obj\Debug\matrix_multiplication.exe
+D:\ITACAD\1.net\laborator5Csharp\matrix_multiplication\matrix_multiplication\obj\Debug\matrix_multiplication.pdb

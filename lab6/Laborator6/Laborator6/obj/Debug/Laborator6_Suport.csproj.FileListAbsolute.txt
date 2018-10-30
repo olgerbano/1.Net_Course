@@ -1,0 +1,12 @@
+C:\Users\Jim\Dropbox\1.NET C# Programming\new\Modulul 6 - Fundamente POO\lab\Laborator6_Suport\Laborator6_Suport\bin\Debug\Laborator6_Suport.exe.config
+C:\Users\Jim\Dropbox\1.NET C# Programming\new\Modulul 6 - Fundamente POO\lab\Laborator6_Suport\Laborator6_Suport\bin\Debug\Laborator6_Suport.exe
+C:\Users\Jim\Dropbox\1.NET C# Programming\new\Modulul 6 - Fundamente POO\lab\Laborator6_Suport\Laborator6_Suport\bin\Debug\Laborator6_Suport.pdb
+C:\Users\Jim\Dropbox\1.NET C# Programming\new\Modulul 6 - Fundamente POO\lab\Laborator6_Suport\Laborator6_Suport\obj\Debug\Laborator6_Suport.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Dropbox\1.NET C# Programming\new\Modulul 6 - Fundamente POO\lab\Laborator6_Suport\Laborator6_Suport\obj\Debug\Laborator6_Suport.exe
+C:\Users\Jim\Dropbox\1.NET C# Programming\new\Modulul 6 - Fundamente POO\lab\Laborator6_Suport\Laborator6_Suport\obj\Debug\Laborator6_Suport.pdb
+D:\c#\Laborator6_Suport (1)\Laborator6_Suport\Laborator6_Suport\bin\Debug\Laborator6_Suport.exe.config
+D:\c#\Laborator6_Suport (1)\Laborator6_Suport\Laborator6_Suport\obj\Debug\Laborator6_Suport.exe
+D:\c#\Laborator6_Suport (1)\Laborator6_Suport\Laborator6_Suport\obj\Debug\Laborator6_Suport.pdb
+D:\c#\Laborator6_Suport (1)\Laborator6_Suport\Laborator6_Suport\bin\Debug\Laborator6_Suport.exe
+D:\c#\Laborator6_Suport (1)\Laborator6_Suport\Laborator6_Suport\bin\Debug\Laborator6_Suport.pdb
+D:\c#\Laborator6_Suport (1)\Laborator6_Suport\Laborator6_Suport\obj\Debug\Laborator6_Suport.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+c:\users\geri\documents\visual studio 2015\Projects\laborator5\laborator5\bin\Debug\laborator5.exe.config
+c:\users\geri\documents\visual studio 2015\Projects\laborator5\laborator5\obj\Debug\laborator5.csprojResolveAssemblyReference.cache
+c:\users\geri\documents\visual studio 2015\Projects\laborator5\laborator5\bin\Debug\laborator5.exe
+c:\users\geri\documents\visual studio 2015\Projects\laborator5\laborator5\bin\Debug\laborator5.pdb
+c:\users\geri\documents\visual studio 2015\Projects\laborator5\laborator5\obj\Debug\laborator5.exe
+c:\users\geri\documents\visual studio 2015\Projects\laborator5\laborator5\obj\Debug\laborator5.pdb
+D:\ITACAD\1.net\laborator5Csharp\laborator5\laborator5\bin\Debug\laborator5.exe.config
+D:\ITACAD\1.net\laborator5Csharp\laborator5\laborator5\bin\Debug\laborator5.exe
+D:\ITACAD\1.net\laborator5Csharp\laborator5\laborator5\bin\Debug\laborator5.pdb
+D:\ITACAD\1.net\laborator5Csharp\laborator5\laborator5\obj\Debug\laborator5.csprojResolveAssemblyReference.cache
+D:\ITACAD\1.net\laborator5Csharp\laborator5\laborator5\obj\Debug\laborator5.csproj.CoreCompileInputs.cache
+D:\ITACAD\1.net\laborator5Csharp\laborator5\laborator5\obj\Debug\laborator5.exe
+D:\ITACAD\1.net\laborator5Csharp\laborator5\laborator5\obj\Debug\laborator5.pdb
+D:\ITACAD\1.net\lab5\laborator5\laborator5\bin\Debug\laborator5.exe.config
+D:\ITACAD\1.net\lab5\laborator5\laborator5\bin\Debug\laborator5.exe
+D:\ITACAD\1.net\lab5\laborator5\laborator5\bin\Debug\laborator5.pdb
+D:\ITACAD\1.net\lab5\laborator5\laborator5\obj\Debug\laborator5.csprojAssemblyReference.cache
+D:\ITACAD\1.net\lab5\laborator5\laborator5\obj\Debug\laborator5.csproj.CoreCompileInputs.cache
+D:\ITACAD\1.net\lab5\laborator5\laborator5\obj\Debug\laborator5.exe
+D:\ITACAD\1.net\lab5\laborator5\laborator5\obj\Debug\laborator5.pdb

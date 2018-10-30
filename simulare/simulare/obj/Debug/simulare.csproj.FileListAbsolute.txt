@@ -1,0 +1,12 @@
+C:\Users\student.MICROSOFT\Desktop\simulare\simulare\obj\Debug\simulare.csprojResolveAssemblyReference.cache
+C:\Users\Geri\Desktop\simulare\simulare\bin\Debug\simulare.exe
+C:\Users\Geri\Desktop\simulare\simulare\bin\Debug\simulare.pdb
+C:\Users\Geri\Desktop\simulare\simulare\obj\Debug\simulare.csprojResolveAssemblyReference.cache
+C:\Users\Geri\Desktop\simulare\simulare\obj\Debug\simulare.exe
+C:\Users\Geri\Desktop\simulare\simulare\obj\Debug\simulare.pdb
+D:\ITACAD\1.net\simulare\simulare\bin\Debug\simulare.exe
+D:\ITACAD\1.net\simulare\simulare\bin\Debug\simulare.pdb
+D:\ITACAD\1.net\simulare\simulare\obj\Debug\simulare.csprojResolveAssemblyReference.cache
+D:\ITACAD\1.net\simulare\simulare\obj\Debug\simulare.csproj.CoreCompileInputs.cache
+D:\ITACAD\1.net\simulare\simulare\obj\Debug\simulare.exe
+D:\ITACAD\1.net\simulare\simulare\obj\Debug\simulare.pdb

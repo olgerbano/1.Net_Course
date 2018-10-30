@@ -1,0 +1,15 @@
+c:\users\geri\documents\visual studio 2015\Projects\laborator2\laborator2\bin\Debug\laborator2.exe.config
+c:\users\geri\documents\visual studio 2015\Projects\laborator2\laborator2\obj\Debug\laborator2.csprojResolveAssemblyReference.cache
+c:\users\geri\documents\visual studio 2015\Projects\laborator2\laborator2\bin\Debug\laborator2.exe
+c:\users\geri\documents\visual studio 2015\Projects\laborator2\laborator2\bin\Debug\laborator2.pdb
+c:\users\geri\documents\visual studio 2015\Projects\laborator2\laborator2\obj\Debug\laborator2.exe
+c:\users\geri\documents\visual studio 2015\Projects\laborator2\laborator2\obj\Debug\laborator2.pdb
+D:\c#\laborator2\laborator2\bin\Debug\laborator2.exe.config
+D:\c#\laborator2\laborator2\obj\Debug\laborator2.exe
+D:\c#\laborator2\laborator2\obj\Debug\laborator2.pdb
+D:\c#\laborator2\laborator2\bin\Debug\laborator2.exe
+D:\c#\laborator2\laborator2\bin\Debug\laborator2.pdb
+D:\c#\laborator2\laborator2\obj\Debug\laborator2.csprojResolveAssemblyReference.cache
+D:\ITACAD\1.net\laborator2\laborator2\bin\Debug\laborator2.exe.config
+D:\ITACAD\1.net\laborator2\laborator2\obj\Debug\laborator2.exe
+D:\ITACAD\1.net\laborator2\laborator2\obj\Debug\laborator2.pdb

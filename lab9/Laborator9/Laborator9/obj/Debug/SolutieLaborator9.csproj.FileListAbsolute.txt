@@ -1,0 +1,19 @@
+c:\users\jimy.pavel.vision\documents\visual studio 2012\Projects\SolutieLaborator9\SolutieLaborator9\bin\Debug\SolutieLaborator9.exe.config
+c:\users\jimy.pavel.vision\documents\visual studio 2012\Projects\SolutieLaborator9\SolutieLaborator9\bin\Debug\SolutieLaborator9.exe
+c:\users\jimy.pavel.vision\documents\visual studio 2012\Projects\SolutieLaborator9\SolutieLaborator9\bin\Debug\SolutieLaborator9.pdb
+c:\users\jimy.pavel.vision\documents\visual studio 2012\Projects\SolutieLaborator9\SolutieLaborator9\obj\Debug\SolutieLaborator9.csprojResolveAssemblyReference.cache
+c:\users\jimy.pavel.vision\documents\visual studio 2012\Projects\SolutieLaborator9\SolutieLaborator9\obj\Debug\SolutieLaborator9.exe
+c:\users\jimy.pavel.vision\documents\visual studio 2012\Projects\SolutieLaborator9\SolutieLaborator9\obj\Debug\SolutieLaborator9.pdb
+D:\c#\lab9\SolutieLaborator9\SolutieLaborator9\SolutieLaborator9\bin\Debug\SolutieLaborator9.exe.config
+D:\c#\lab9\SolutieLaborator9\SolutieLaborator9\SolutieLaborator9\obj\Debug\SolutieLaborator9.exe
+D:\c#\lab9\SolutieLaborator9\SolutieLaborator9\SolutieLaborator9\obj\Debug\SolutieLaborator9.pdb
+D:\c#\lab9\SolutieLaborator9\SolutieLaborator9\SolutieLaborator9\bin\Debug\SolutieLaborator9.exe
+D:\c#\lab9\SolutieLaborator9\SolutieLaborator9\SolutieLaborator9\bin\Debug\SolutieLaborator9.pdb
+D:\c#\lab9\SolutieLaborator9\SolutieLaborator9\SolutieLaborator9\obj\Debug\SolutieLaborator9.csprojResolveAssemblyReference.cache
+D:\ITACAD\1.net\lab9\SolutieLaborator9\SolutieLaborator9\SolutieLaborator9\bin\Debug\SolutieLaborator9.exe.config
+D:\ITACAD\1.net\lab9\SolutieLaborator9\SolutieLaborator9\SolutieLaborator9\bin\Debug\SolutieLaborator9.exe
+D:\ITACAD\1.net\lab9\SolutieLaborator9\SolutieLaborator9\SolutieLaborator9\bin\Debug\SolutieLaborator9.pdb
+D:\ITACAD\1.net\lab9\SolutieLaborator9\SolutieLaborator9\SolutieLaborator9\obj\Debug\SolutieLaborator9.csprojResolveAssemblyReference.cache
+D:\ITACAD\1.net\lab9\SolutieLaborator9\SolutieLaborator9\SolutieLaborator9\obj\Debug\SolutieLaborator9.csproj.CoreCompileInputs.cache
+D:\ITACAD\1.net\lab9\SolutieLaborator9\SolutieLaborator9\SolutieLaborator9\obj\Debug\SolutieLaborator9.exe
+D:\ITACAD\1.net\lab9\SolutieLaborator9\SolutieLaborator9\SolutieLaborator9\obj\Debug\SolutieLaborator9.pdb

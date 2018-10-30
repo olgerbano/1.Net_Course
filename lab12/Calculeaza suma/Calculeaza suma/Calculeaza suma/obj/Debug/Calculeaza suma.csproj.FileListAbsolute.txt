@@ -1,0 +1,19 @@
+D:\VStudio work\C#\Calculeaza suma\Calculeaza suma\bin\Debug\Calculeaza suma.exe.config
+D:\VStudio work\C#\Calculeaza suma\Calculeaza suma\bin\Debug\Calculeaza suma.exe
+D:\VStudio work\C#\Calculeaza suma\Calculeaza suma\bin\Debug\Calculeaza suma.pdb
+D:\VStudio work\C#\Calculeaza suma\Calculeaza suma\obj\Debug\Calculeaza suma.csprojResolveAssemblyReference.cache
+D:\VStudio work\C#\Calculeaza suma\Calculeaza suma\obj\Debug\Calculeaza_suma.Form1.resources
+D:\VStudio work\C#\Calculeaza suma\Calculeaza suma\obj\Debug\Calculeaza_suma.Properties.Resources.resources
+D:\VStudio work\C#\Calculeaza suma\Calculeaza suma\obj\Debug\Calculeaza suma.csproj.GenerateResource.Cache
+D:\VStudio work\C#\Calculeaza suma\Calculeaza suma\obj\Debug\Calculeaza suma.exe
+D:\VStudio work\C#\Calculeaza suma\Calculeaza suma\obj\Debug\Calculeaza suma.pdb
+D:\ITACAD\1.net\lab12\Calculeaza suma\Calculeaza suma\Calculeaza suma\bin\Debug\Calculeaza suma.exe.config
+D:\ITACAD\1.net\lab12\Calculeaza suma\Calculeaza suma\Calculeaza suma\bin\Debug\Calculeaza suma.exe
+D:\ITACAD\1.net\lab12\Calculeaza suma\Calculeaza suma\Calculeaza suma\bin\Debug\Calculeaza suma.pdb
+D:\ITACAD\1.net\lab12\Calculeaza suma\Calculeaza suma\Calculeaza suma\obj\Debug\Calculeaza_suma.Form1.resources
+D:\ITACAD\1.net\lab12\Calculeaza suma\Calculeaza suma\Calculeaza suma\obj\Debug\Calculeaza_suma.Properties.Resources.resources
+D:\ITACAD\1.net\lab12\Calculeaza suma\Calculeaza suma\Calculeaza suma\obj\Debug\Calculeaza suma.csproj.GenerateResource.Cache
+D:\ITACAD\1.net\lab12\Calculeaza suma\Calculeaza suma\Calculeaza suma\obj\Debug\Calculeaza suma.csproj.CoreCompileInputs.cache
+D:\ITACAD\1.net\lab12\Calculeaza suma\Calculeaza suma\Calculeaza suma\obj\Debug\Calculeaza suma.exe
+D:\ITACAD\1.net\lab12\Calculeaza suma\Calculeaza suma\Calculeaza suma\obj\Debug\Calculeaza suma.pdb
+D:\ITACAD\1.net\lab12\Calculeaza suma\Calculeaza suma\Calculeaza suma\obj\Debug\Calculeaza suma.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\lili\documents\visual studio 2010\Projects\SolutieLaborator_11\SolutieLaborator_11\bin\Debug\SolutieLaborator_11.exe
+c:\users\lili\documents\visual studio 2010\Projects\SolutieLaborator_11\SolutieLaborator_11\bin\Debug\SolutieLaborator_11.pdb
+c:\users\lili\documents\visual studio 2010\Projects\SolutieLaborator_11\SolutieLaborator_11\obj\x86\Debug\SolutieLaborator_11.exe
+c:\users\lili\documents\visual studio 2010\Projects\SolutieLaborator_11\SolutieLaborator_11\obj\x86\Debug\SolutieLaborator_11.pdb
+C:\Users\Lili\Desktop\Modulul_11_Operatori_Delegati_Evenimente\lab\SolutieLaborator_11\SolutieLaborator_11\obj\x86\Debug\SolutieLaborator_11.exe
+C:\Users\Lili\Desktop\Modulul_11_Operatori_Delegati_Evenimente\lab\SolutieLaborator_11\SolutieLaborator_11\obj\x86\Debug\SolutieLaborator_11.pdb
+C:\Users\Lili\Desktop\Modulul_11_Operatori_Delegati_Evenimente\lab\SolutieLaborator_11\SolutieLaborator_11\bin\Debug\SolutieLaborator_11.exe
+C:\Users\Lili\Desktop\Modulul_11_Operatori_Delegati_Evenimente\lab\SolutieLaborator_11\SolutieLaborator_11\bin\Debug\SolutieLaborator_11.pdb
+C:\Users\Lili\Desktop\Modulul_11_Operatori_Delegati_Evenimente\lab\SolutieLaborator_11\SolutieLaborator_11\obj\x86\Debug\SolutieLaborator_11.csprojResolveAssemblyReference.cache

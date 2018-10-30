@@ -1,0 +1,23 @@
+D:\VStudio work\C#\Chestionar\Chestionar\bin\Debug\Chestionar.exe.config
+D:\VStudio work\C#\Chestionar\Chestionar\bin\Debug\Chestionar.exe
+D:\VStudio work\C#\Chestionar\Chestionar\bin\Debug\Chestionar.pdb
+D:\VStudio work\C#\Chestionar\Chestionar\obj\Debug\Chestionar.csprojResolveAssemblyReference.cache
+D:\VStudio work\C#\Chestionar\Chestionar\obj\Debug\Chestionar.MainForm.resources
+D:\VStudio work\C#\Chestionar\Chestionar\obj\Debug\Chestionar.Properties.Resources.resources
+D:\VStudio work\C#\Chestionar\Chestionar\obj\Debug\Chestionar.SimpleAnswer.resources
+D:\VStudio work\C#\Chestionar\Chestionar\obj\Debug\Chestionar.SpecifyAnswer.resources
+D:\VStudio work\C#\Chestionar\Chestionar\obj\Debug\Chestionar.csproj.GenerateResource.Cache
+D:\VStudio work\C#\Chestionar\Chestionar\obj\Debug\Chestionar.exe
+D:\VStudio work\C#\Chestionar\Chestionar\obj\Debug\Chestionar.pdb
+D:\ITACAD\1.net\lab12\Chestionar\Chestionar\Chestionar\bin\Debug\Chestionar.exe.config
+D:\ITACAD\1.net\lab12\Chestionar\Chestionar\Chestionar\bin\Debug\Chestionar.exe
+D:\ITACAD\1.net\lab12\Chestionar\Chestionar\Chestionar\bin\Debug\Chestionar.pdb
+D:\ITACAD\1.net\lab12\Chestionar\Chestionar\Chestionar\obj\Debug\Chestionar.MainForm.resources
+D:\ITACAD\1.net\lab12\Chestionar\Chestionar\Chestionar\obj\Debug\Chestionar.Properties.Resources.resources
+D:\ITACAD\1.net\lab12\Chestionar\Chestionar\Chestionar\obj\Debug\Chestionar.SimpleAnswer.resources
+D:\ITACAD\1.net\lab12\Chestionar\Chestionar\Chestionar\obj\Debug\Chestionar.SpecifyAnswer.resources
+D:\ITACAD\1.net\lab12\Chestionar\Chestionar\Chestionar\obj\Debug\Chestionar.csproj.GenerateResource.Cache
+D:\ITACAD\1.net\lab12\Chestionar\Chestionar\Chestionar\obj\Debug\Chestionar.csproj.CoreCompileInputs.cache
+D:\ITACAD\1.net\lab12\Chestionar\Chestionar\Chestionar\obj\Debug\Chestionar.exe
+D:\ITACAD\1.net\lab12\Chestionar\Chestionar\Chestionar\obj\Debug\Chestionar.pdb
+D:\ITACAD\1.net\lab12\Chestionar\Chestionar\Chestionar\obj\Debug\Chestionar.csprojAssemblyReference.cache

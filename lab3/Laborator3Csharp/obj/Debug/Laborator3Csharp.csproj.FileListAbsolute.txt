@@ -1,0 +1,12 @@
+c:\users\geri\documents\visual studio 2015\Projects\Laborator3Csharp\Laborator3Csharp\bin\Debug\Laborator3Csharp.exe.config
+c:\users\geri\documents\visual studio 2015\Projects\Laborator3Csharp\Laborator3Csharp\bin\Debug\Laborator3Csharp.exe
+c:\users\geri\documents\visual studio 2015\Projects\Laborator3Csharp\Laborator3Csharp\bin\Debug\Laborator3Csharp.pdb
+c:\users\geri\documents\visual studio 2015\Projects\Laborator3Csharp\Laborator3Csharp\obj\Debug\Laborator3Csharp.csprojResolveAssemblyReference.cache
+c:\users\geri\documents\visual studio 2015\Projects\Laborator3Csharp\Laborator3Csharp\obj\Debug\Laborator3Csharp.exe
+c:\users\geri\documents\visual studio 2015\Projects\Laborator3Csharp\Laborator3Csharp\obj\Debug\Laborator3Csharp.pdb
+D:\c#\Laborator3Csharp\Laborator3Csharp\bin\Debug\Laborator3Csharp.exe.config
+D:\c#\Laborator3Csharp\Laborator3Csharp\obj\Debug\Laborator3Csharp.exe
+D:\c#\Laborator3Csharp\Laborator3Csharp\obj\Debug\Laborator3Csharp.pdb
+D:\c#\Laborator3Csharp\Laborator3Csharp\bin\Debug\Laborator3Csharp.exe
+D:\c#\Laborator3Csharp\Laborator3Csharp\bin\Debug\Laborator3Csharp.pdb
+D:\c#\Laborator3Csharp\Laborator3Csharp\obj\Debug\Laborator3Csharp.csprojResolveAssemblyReference.cache

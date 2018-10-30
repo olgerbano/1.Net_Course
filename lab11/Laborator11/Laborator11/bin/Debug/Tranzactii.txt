@@ -1,0 +1,6 @@
+Numarul de cont: 123
+Soldul: 21
+Tip cont: Cec
+Data/Ora: 12/2/2012 10:10:42 PM	Suma: 24
+Data/Ora: 12/2/2012 10:10:43 PM	Suma: -3
+

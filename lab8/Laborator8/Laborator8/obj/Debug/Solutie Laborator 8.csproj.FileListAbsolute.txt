@@ -1,0 +1,22 @@
+D:\VStudio work\C#\Solutie Laborator 8\Solutie Laborator 8\bin\Debug\Solutie Laborator 8.exe.config
+D:\VStudio work\C#\Solutie Laborator 8\Solutie Laborator 8\bin\Debug\Solutie Laborator 8.exe
+D:\VStudio work\C#\Solutie Laborator 8\Solutie Laborator 8\bin\Debug\Solutie Laborator 8.pdb
+D:\VStudio work\C#\Solutie Laborator 8\Solutie Laborator 8\obj\Debug\Solutie Laborator 8.csprojResolveAssemblyReference.cache
+D:\VStudio work\C#\Solutie Laborator 8\Solutie Laborator 8\obj\Debug\Solutie Laborator 8.exe
+D:\VStudio work\C#\Solutie Laborator 8\Solutie Laborator 8\obj\Debug\Solutie Laborator 8.pdb
+D:\UPB\Dropbox\1.NET C# Programming\new\Modulul 8 - Crearea si distrugerea unui obiect\laborator\Solutie Laborator 8\Solutie Laborator 8\bin\Debug\Solutie Laborator 8.exe.config
+D:\UPB\Dropbox\1.NET C# Programming\new\Modulul 8 - Crearea si distrugerea unui obiect\laborator\Solutie Laborator 8\Solutie Laborator 8\obj\Debug\Solutie Laborator 8.exe
+D:\UPB\Dropbox\1.NET C# Programming\new\Modulul 8 - Crearea si distrugerea unui obiect\laborator\Solutie Laborator 8\Solutie Laborator 8\obj\Debug\Solutie Laborator 8.pdb
+D:\UPB\Dropbox\1.NET C# Programming\new\Modulul 8 - Crearea si distrugerea unui obiect\laborator\Solutie Laborator 8\Solutie Laborator 8\bin\Debug\Solutie Laborator 8.exe
+D:\UPB\Dropbox\1.NET C# Programming\new\Modulul 8 - Crearea si distrugerea unui obiect\laborator\Solutie Laborator 8\Solutie Laborator 8\bin\Debug\Solutie Laborator 8.pdb
+D:\UPB\Dropbox\1.NET C# Programming\new\Modulul 8 - Crearea si distrugerea unui obiect\laborator\Solutie Laborator 8\Solutie Laborator 8\obj\Debug\Solutie Laborator 8.csprojResolveAssemblyReference.cache
+D:\c#\rezolvaridelaei\Solutie Laborator 8\Solutie Laborator 8\Solutie Laborator 8\bin\Debug\Solutie Laborator 8.exe.config
+D:\c#\rezolvaridelaei\Solutie Laborator 8\Solutie Laborator 8\Solutie Laborator 8\obj\Debug\Solutie Laborator 8.exe
+D:\c#\rezolvaridelaei\Solutie Laborator 8\Solutie Laborator 8\Solutie Laborator 8\obj\Debug\Solutie Laborator 8.pdb
+D:\ITACAD\1.net\Solutie Laborator 8\Solutie Laborator 8\Solutie Laborator 8\bin\Debug\Solutie Laborator 8.exe.config
+D:\ITACAD\1.net\Solutie Laborator 8\Solutie Laborator 8\Solutie Laborator 8\bin\Debug\Solutie Laborator 8.exe
+D:\ITACAD\1.net\Solutie Laborator 8\Solutie Laborator 8\Solutie Laborator 8\bin\Debug\Solutie Laborator 8.pdb
+D:\ITACAD\1.net\Solutie Laborator 8\Solutie Laborator 8\Solutie Laborator 8\obj\Debug\Solutie Laborator 8.csprojResolveAssemblyReference.cache
+D:\ITACAD\1.net\Solutie Laborator 8\Solutie Laborator 8\Solutie Laborator 8\obj\Debug\Solutie Laborator 8.csproj.CoreCompileInputs.cache
+D:\ITACAD\1.net\Solutie Laborator 8\Solutie Laborator 8\Solutie Laborator 8\obj\Debug\Solutie Laborator 8.exe
+D:\ITACAD\1.net\Solutie Laborator 8\Solutie Laborator 8\Solutie Laborator 8\obj\Debug\Solutie Laborator 8.pdb

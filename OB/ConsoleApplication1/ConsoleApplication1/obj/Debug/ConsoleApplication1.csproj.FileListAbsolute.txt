@@ -1,0 +1,11 @@
+C:\Users\Geri\Downloads\Bita_Mihai-Valentin\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Geri\Downloads\Bita_Mihai-Valentin\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\ITACAD\1.net\c# partial\Bita_Mihai-Valentin\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\ITACAD\1.net\c# partial\Bita_Mihai-Valentin\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\ITACAD\1.net\c# partial\OB\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\ITACAD\1.net\c# partial\OB\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\ITACAD\1.net\c# partial\OB\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\ITACAD\1.net\c# partial\OB\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+D:\ITACAD\1.net\c# partial\OB\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\ITACAD\1.net\c# partial\OB\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\ITACAD\1.net\c# partial\OB\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

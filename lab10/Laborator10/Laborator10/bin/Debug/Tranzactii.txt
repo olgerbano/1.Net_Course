@@ -1,0 +1,6 @@
+Numarul de cont: 123
+Soldul: 880
+Tip cont: Cec
+Data/Ora: 1/8/2016 10:13:29 PM	Suma: 1000
+Data/Ora: 1/8/2016 10:13:37 PM	Suma: -120
+

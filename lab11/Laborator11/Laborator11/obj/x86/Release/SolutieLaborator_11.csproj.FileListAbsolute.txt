@@ -1,0 +1,15 @@
+C:\Users\Lili\Desktop\Modulul_11_Operatori_Delegati_Evenimente\lab\SolutieLaborator_11\SolutieLaborator_11\bin\Release\SolutieLaborator_11.exe
+C:\Users\Lili\Desktop\Modulul_11_Operatori_Delegati_Evenimente\lab\SolutieLaborator_11\SolutieLaborator_11\bin\Release\SolutieLaborator_11.pdb
+C:\Users\Lili\Desktop\Modulul_11_Operatori_Delegati_Evenimente\lab\SolutieLaborator_11\SolutieLaborator_11\obj\x86\Release\SolutieLaborator_11.exe
+C:\Users\Lili\Desktop\Modulul_11_Operatori_Delegati_Evenimente\lab\SolutieLaborator_11\SolutieLaborator_11\obj\x86\Release\SolutieLaborator_11.pdb
+D:\c#\lab11\SolutieLaborator_11\SolutieLaborator_11\SolutieLaborator_11\obj\x86\Release\SolutieLaborator_11.exe
+D:\c#\lab11\SolutieLaborator_11\SolutieLaborator_11\SolutieLaborator_11\obj\x86\Release\SolutieLaborator_11.pdb
+D:\c#\lab11\SolutieLaborator_11\SolutieLaborator_11\SolutieLaborator_11\bin\Release\SolutieLaborator_11.exe
+D:\c#\lab11\SolutieLaborator_11\SolutieLaborator_11\SolutieLaborator_11\bin\Release\SolutieLaborator_11.pdb
+D:\c#\lab11\SolutieLaborator_11\SolutieLaborator_11\SolutieLaborator_11\obj\x86\Release\SolutieLaborator_11.csprojResolveAssemblyReference.cache
+D:\ITACAD\1.net\lab11\SolutieLaborator_11\SolutieLaborator_11\SolutieLaborator_11\bin\Release\SolutieLaborator_11.exe
+D:\ITACAD\1.net\lab11\SolutieLaborator_11\SolutieLaborator_11\SolutieLaborator_11\bin\Release\SolutieLaborator_11.pdb
+D:\ITACAD\1.net\lab11\SolutieLaborator_11\SolutieLaborator_11\SolutieLaborator_11\obj\x86\Release\SolutieLaborator_11.csprojResolveAssemblyReference.cache
+D:\ITACAD\1.net\lab11\SolutieLaborator_11\SolutieLaborator_11\SolutieLaborator_11\obj\x86\Release\SolutieLaborator_11.csproj.CoreCompileInputs.cache
+D:\ITACAD\1.net\lab11\SolutieLaborator_11\SolutieLaborator_11\SolutieLaborator_11\obj\x86\Release\SolutieLaborator_11.exe
+D:\ITACAD\1.net\lab11\SolutieLaborator_11\SolutieLaborator_11\SolutieLaborator_11\obj\x86\Release\SolutieLaborator_11.pdb

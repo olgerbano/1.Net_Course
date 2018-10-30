@@ -1,0 +1,15 @@
+D:\VStudio work\C#\Solutie Laborator 7\Solutie Laborator 7\bin\Debug\Solutie Laborator 7.exe.config
+D:\VStudio work\C#\Solutie Laborator 7\Solutie Laborator 7\obj\Debug\Solutie Laborator 7.csprojResolveAssemblyReference.cache
+D:\VStudio work\C#\Solutie Laborator 7\Solutie Laborator 7\bin\Debug\Solutie Laborator 7.exe
+D:\VStudio work\C#\Solutie Laborator 7\Solutie Laborator 7\bin\Debug\Solutie Laborator 7.pdb
+D:\VStudio work\C#\Solutie Laborator 7\Solutie Laborator 7\obj\Debug\Solutie Laborator 7.exe
+D:\VStudio work\C#\Solutie Laborator 7\Solutie Laborator 7\obj\Debug\Solutie Laborator 7.pdb
+D:\UPB\Dropbox\1.NET C# Programming\new\Modulul 7 - Prelucrari de referinte\laborator\Solutie Laborator 7\Solutie Laborator 7\bin\Debug\Solutie Laborator 7.exe.config
+D:\UPB\Dropbox\1.NET C# Programming\new\Modulul 7 - Prelucrari de referinte\laborator\Solutie Laborator 7\Solutie Laborator 7\obj\Debug\Solutie Laborator 7.exe
+D:\UPB\Dropbox\1.NET C# Programming\new\Modulul 7 - Prelucrari de referinte\laborator\Solutie Laborator 7\Solutie Laborator 7\obj\Debug\Solutie Laborator 7.pdb
+D:\c#\rezolvaridelaei\Solutie Laborator 7\Solutie Laborator 7\Solutie Laborator 7\bin\Debug\Solutie Laborator 7.exe.config
+D:\c#\rezolvaridelaei\Solutie Laborator 7\Solutie Laborator 7\Solutie Laborator 7\obj\Debug\Solutie Laborator 7.exe
+D:\c#\rezolvaridelaei\Solutie Laborator 7\Solutie Laborator 7\Solutie Laborator 7\obj\Debug\Solutie Laborator 7.pdb
+D:\c#\rezolvaridelaei\Solutie Laborator 7\Solutie Laborator 7\Solutie Laborator 7\bin\Debug\Solutie Laborator 7.exe
+D:\c#\rezolvaridelaei\Solutie Laborator 7\Solutie Laborator 7\Solutie Laborator 7\bin\Debug\Solutie Laborator 7.pdb
+D:\c#\rezolvaridelaei\Solutie Laborator 7\Solutie Laborator 7\Solutie Laborator 7\obj\Debug\Solutie Laborator 7.csprojResolveAssemblyReference.cache

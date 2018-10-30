@@ -1,0 +1,15 @@
+D:\itacad\lab3\lab7b\lab7b\bin\Debug\lab7b.exe.config
+D:\itacad\lab3\lab7b\lab7b\obj\Debug\lab7b.csprojResolveAssemblyReference.cache
+D:\itacad\lab3\lab7b\lab7b\bin\Debug\lab7b.exe
+D:\itacad\lab3\lab7b\lab7b\bin\Debug\lab7b.pdb
+D:\itacad\lab3\lab7b\lab7b\obj\Debug\lab7b.exe
+D:\itacad\lab3\lab7b\lab7b\obj\Debug\lab7b.pdb
+C:\Users\Geri\Desktop\itacad\lab3\lab7b\lab7b\bin\Debug\lab7b.exe.config
+C:\Users\Geri\Desktop\itacad\lab3\lab7b\lab7b\obj\Debug\lab7b.exe
+C:\Users\Geri\Desktop\itacad\lab3\lab7b\lab7b\obj\Debug\lab7b.pdb
+D:\c#\lab7\lab7b\lab7b\bin\Debug\lab7b.exe.config
+D:\c#\lab7\lab7b\lab7b\obj\Debug\lab7b.exe
+D:\c#\lab7\lab7b\lab7b\obj\Debug\lab7b.pdb
+D:\c#\lab7\lab7b\lab7b\bin\Debug\lab7b.exe
+D:\c#\lab7\lab7b\lab7b\bin\Debug\lab7b.pdb
+D:\c#\lab7\lab7b\lab7b\obj\Debug\lab7b.csprojResolveAssemblyReference.cache

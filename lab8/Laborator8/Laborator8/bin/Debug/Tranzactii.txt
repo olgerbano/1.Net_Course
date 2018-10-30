@@ -1,0 +1,117 @@
+Numarul de cont: 123
+Soldul: 60
+Tip cont: Cec
+Data/Ora: 11/8/2013 10:10:32 PM	Suma: 100
+Data/Ora: 11/8/2013 10:10:32 PM	Suma: -50
+Data/Ora: 11/8/2013 10:10:32 PM	Suma: 75
+Data/Ora: 11/8/2013 10:10:32 PM	Suma: -50
+Data/Ora: 11/8/2013 10:10:32 PM	Suma: -30
+Data/Ora: 11/8/2013 10:10:32 PM	Suma: 40
+Data/Ora: 11/8/2013 10:10:32 PM	Suma: 200
+Data/Ora: 11/8/2013 10:10:32 PM	Suma: -250
+Data/Ora: 11/8/2013 10:10:32 PM	Suma: 25
+
+Numarul de cont: 123
+Soldul: 60
+Tip cont: Cec
+Data/Ora: 9/17/2018 8:27:46 PM	Suma: 100
+Data/Ora: 9/17/2018 8:27:46 PM	Suma: -50
+Data/Ora: 9/17/2018 8:27:46 PM	Suma: 75
+Data/Ora: 9/17/2018 8:27:46 PM	Suma: -50
+Data/Ora: 9/17/2018 8:27:46 PM	Suma: -30
+Data/Ora: 9/17/2018 8:27:46 PM	Suma: 40
+Data/Ora: 9/17/2018 8:27:46 PM	Suma: 200
+Data/Ora: 9/17/2018 8:27:46 PM	Suma: -250
+Data/Ora: 9/17/2018 8:27:46 PM	Suma: 25
+
+Numarul de cont: 123
+Soldul: 60
+Tip cont: Cec
+Data/Ora: 9/17/2018 8:28:01 PM	Suma: 100
+Data/Ora: 9/17/2018 8:28:01 PM	Suma: -50
+Data/Ora: 9/17/2018 8:28:01 PM	Suma: 75
+Data/Ora: 9/17/2018 8:28:01 PM	Suma: -50
+Data/Ora: 9/17/2018 8:28:01 PM	Suma: -30
+Data/Ora: 9/17/2018 8:28:01 PM	Suma: 40
+Data/Ora: 9/17/2018 8:28:01 PM	Suma: 200
+Data/Ora: 9/17/2018 8:28:01 PM	Suma: -250
+Data/Ora: 9/17/2018 8:28:01 PM	Suma: 25
+
+Numarul de cont: 123
+Soldul: 60
+Tip cont: Cec
+Data/Ora: 9/17/2018 8:29:24 PM	Suma: 100
+Data/Ora: 9/17/2018 8:29:24 PM	Suma: -50
+Data/Ora: 9/17/2018 8:29:24 PM	Suma: 75
+Data/Ora: 9/17/2018 8:29:24 PM	Suma: -50
+Data/Ora: 9/17/2018 8:29:24 PM	Suma: -30
+Data/Ora: 9/17/2018 8:29:24 PM	Suma: 40
+Data/Ora: 9/17/2018 8:29:24 PM	Suma: 200
+Data/Ora: 9/17/2018 8:29:24 PM	Suma: -250
+Data/Ora: 9/17/2018 8:29:24 PM	Suma: 25
+
+Numarul de cont: 123
+Soldul: 60
+Tip cont: Cec
+Data/Ora: 9/17/2018 8:33:29 PM	Suma: 100
+Data/Ora: 9/17/2018 8:33:29 PM	Suma: -50
+Data/Ora: 9/17/2018 8:33:29 PM	Suma: 75
+Data/Ora: 9/17/2018 8:33:29 PM	Suma: -50
+Data/Ora: 9/17/2018 8:33:29 PM	Suma: -30
+Data/Ora: 9/17/2018 8:33:29 PM	Suma: 40
+Data/Ora: 9/17/2018 8:33:29 PM	Suma: 200
+Data/Ora: 9/17/2018 8:33:29 PM	Suma: -250
+Data/Ora: 9/17/2018 8:33:29 PM	Suma: 25
+
+Numarul de cont: 123
+Soldul: 60
+Tip cont: Cec
+Data/Ora: 9/17/2018 8:35:37 PM	Suma: 100
+Data/Ora: 9/17/2018 8:35:38 PM	Suma: -50
+Data/Ora: 9/17/2018 8:35:39 PM	Suma: 75
+Data/Ora: 9/17/2018 8:35:40 PM	Suma: -50
+Data/Ora: 9/17/2018 8:35:41 PM	Suma: -30
+Data/Ora: 9/17/2018 8:35:42 PM	Suma: 40
+Data/Ora: 9/17/2018 8:35:43 PM	Suma: 200
+Data/Ora: 9/17/2018 8:35:44 PM	Suma: -250
+Data/Ora: 9/17/2018 8:35:45 PM	Suma: 25
+
+Numarul de cont: 123
+Soldul: 60
+Tip cont: Cec
+Data/Ora: 9/17/2018 8:36:42 PM	Suma: 100
+Data/Ora: 9/17/2018 8:36:43 PM	Suma: -50
+Data/Ora: 9/17/2018 8:36:44 PM	Suma: 75
+Data/Ora: 9/17/2018 8:36:45 PM	Suma: -50
+Data/Ora: 9/17/2018 8:36:46 PM	Suma: -30
+Data/Ora: 9/17/2018 8:36:47 PM	Suma: 40
+Data/Ora: 9/17/2018 8:36:48 PM	Suma: 200
+Data/Ora: 9/17/2018 8:36:49 PM	Suma: -250
+Data/Ora: 9/17/2018 8:36:50 PM	Suma: 25
+
+Numarul de cont: 123
+Soldul: 60
+Tip cont: Cec
+Data/Ora: 9/17/2018 8:37:47 PM	Suma: 100
+Data/Ora: 9/17/2018 8:37:48 PM	Suma: -50
+Data/Ora: 9/17/2018 8:37:49 PM	Suma: 75
+Data/Ora: 9/17/2018 8:37:50 PM	Suma: -50
+Data/Ora: 9/17/2018 8:37:51 PM	Suma: -30
+Data/Ora: 9/17/2018 8:37:52 PM	Suma: 40
+Data/Ora: 9/17/2018 8:37:53 PM	Suma: 200
+Data/Ora: 9/17/2018 8:37:54 PM	Suma: -250
+Data/Ora: 9/17/2018 8:37:55 PM	Suma: 25
+
+Numarul de cont: 123
+Soldul: 60
+Tip cont: Cec
+Data/Ora: 9/19/2018 6:11:05 PM	Suma: 100
+Data/Ora: 9/19/2018 6:11:06 PM	Suma: -50
+Data/Ora: 9/19/2018 6:11:07 PM	Suma: 75
+Data/Ora: 9/19/2018 6:11:08 PM	Suma: -50
+Data/Ora: 9/19/2018 6:11:09 PM	Suma: -30
+Data/Ora: 9/19/2018 6:11:10 PM	Suma: 40
+Data/Ora: 9/19/2018 6:11:11 PM	Suma: 200
+Data/Ora: 9/19/2018 6:11:12 PM	Suma: -250
+Data/Ora: 9/19/2018 6:11:13 PM	Suma: 25
+

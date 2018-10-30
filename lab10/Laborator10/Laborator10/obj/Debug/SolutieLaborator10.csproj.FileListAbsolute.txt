@@ -1,0 +1,12 @@
+C:\Users\Liliana\Dropbox\1.NET C# Programming\new\Modulul 10 - Proprietati si Indecsi\lab\SolutieLaborator10\SolutieLaborator10\SolutieLaborator10\bin\Debug\SolutieLaborator10.exe.config
+C:\Users\Liliana\Dropbox\1.NET C# Programming\new\Modulul 10 - Proprietati si Indecsi\lab\SolutieLaborator10\SolutieLaborator10\SolutieLaborator10\bin\Debug\SolutieLaborator10.exe
+C:\Users\Liliana\Dropbox\1.NET C# Programming\new\Modulul 10 - Proprietati si Indecsi\lab\SolutieLaborator10\SolutieLaborator10\SolutieLaborator10\bin\Debug\SolutieLaborator10.pdb
+C:\Users\Liliana\Dropbox\1.NET C# Programming\new\Modulul 10 - Proprietati si Indecsi\lab\SolutieLaborator10\SolutieLaborator10\SolutieLaborator10\obj\Debug\SolutieLaborator10.csprojResolveAssemblyReference.cache
+C:\Users\Liliana\Dropbox\1.NET C# Programming\new\Modulul 10 - Proprietati si Indecsi\lab\SolutieLaborator10\SolutieLaborator10\SolutieLaborator10\obj\Debug\SolutieLaborator10.exe
+C:\Users\Liliana\Dropbox\1.NET C# Programming\new\Modulul 10 - Proprietati si Indecsi\lab\SolutieLaborator10\SolutieLaborator10\SolutieLaborator10\obj\Debug\SolutieLaborator10.pdb
+D:\c#\lab10\SolutieLaborator10\SolutieLaborator10\SolutieLaborator10\bin\Debug\SolutieLaborator10.exe.config
+D:\c#\lab10\SolutieLaborator10\SolutieLaborator10\SolutieLaborator10\obj\Debug\SolutieLaborator10.exe
+D:\c#\lab10\SolutieLaborator10\SolutieLaborator10\SolutieLaborator10\obj\Debug\SolutieLaborator10.pdb
+D:\c#\lab10\SolutieLaborator10\SolutieLaborator10\SolutieLaborator10\bin\Debug\SolutieLaborator10.exe
+D:\c#\lab10\SolutieLaborator10\SolutieLaborator10\SolutieLaborator10\bin\Debug\SolutieLaborator10.pdb
+D:\c#\lab10\SolutieLaborator10\SolutieLaborator10\SolutieLaborator10\obj\Debug\SolutieLaborator10.csprojResolveAssemblyReference.cache

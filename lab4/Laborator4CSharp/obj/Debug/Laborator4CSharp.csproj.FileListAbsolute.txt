@@ -1,0 +1,12 @@
+c:\users\geri\documents\visual studio 2015\Projects\Laborator4CSharp\Laborator4CSharp\bin\Debug\Laborator4CSharp.exe.config
+c:\users\geri\documents\visual studio 2015\Projects\Laborator4CSharp\Laborator4CSharp\bin\Debug\Laborator4CSharp.exe
+c:\users\geri\documents\visual studio 2015\Projects\Laborator4CSharp\Laborator4CSharp\bin\Debug\Laborator4CSharp.pdb
+c:\users\geri\documents\visual studio 2015\Projects\Laborator4CSharp\Laborator4CSharp\obj\Debug\Laborator4CSharp.exe
+c:\users\geri\documents\visual studio 2015\Projects\Laborator4CSharp\Laborator4CSharp\obj\Debug\Laborator4CSharp.pdb
+C:\Users\Geri\Documents\Visual Studio 2015\Projects\Laborator4CSharp\Laborator4CSharp\obj\Debug\Laborator4CSharp.csprojResolveAssemblyReference.cache
+D:\c#\Laborator4CSharp\Laborator4CSharp\bin\Debug\Laborator4CSharp.exe.config
+D:\c#\Laborator4CSharp\Laborator4CSharp\obj\Debug\Laborator4CSharp.exe
+D:\c#\Laborator4CSharp\Laborator4CSharp\obj\Debug\Laborator4CSharp.pdb
+D:\c#\Laborator4CSharp\Laborator4CSharp\obj\Debug\Laborator4CSharp.csprojResolveAssemblyReference.cache
+D:\c#\Laborator4CSharp\Laborator4CSharp\bin\Debug\Laborator4CSharp.exe
+D:\c#\Laborator4CSharp\Laborator4CSharp\bin\Debug\Laborator4CSharp.pdb
